@@ -1,1 +1,1 @@
-# image-encryption-decryption
+# Image encryption & decryption
